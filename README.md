@@ -67,7 +67,4 @@ A discretização retorna índices inteiros para compor a Q-Table com shape `NUM
 
 O gráfico `cartpole_q_vs_sarsa.png` permite comparar a convergência dos algoritmos, mostrando a evolução da recompensa média ao longo dos episódios. Ajuste os hiperparâmetros para explorar diferentes comportamentos.
 
----
-
-Qualquer dúvida ou sugestão de melhoria, fique à vontade para editar o script ou os hiperparâmetros e rodar novamente.
 
